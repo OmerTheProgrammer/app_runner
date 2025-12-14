@@ -1,0 +1,4 @@
+"C:\Users\omer1\OneDrive\שולחן העבודה\programing\program languges\c#\app_runner\app_runner\bin\Debug\net6.0\app_runner.exe"
+
+in my pc doen't want to be copyed to here,
+so it doesn't run.
